@@ -17,7 +17,6 @@ items:
     uid: c180df7b-a4f3-4013-a485-25639483776a
   spec:
     progressDeadlineSeconds: 600
-    replicas: 3
     revisionHistoryLimit: 10
     selector:
       matchLabels:
